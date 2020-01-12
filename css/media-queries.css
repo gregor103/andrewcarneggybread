@@ -428,7 +428,7 @@
 	}
 
 	/* about section */
-	#about .about-content {	padding: 0 30px; }
+	#about .about-content {	padding: 0 0px; }
 	#about .left {	padding: 0;	}
 	#about .right { padding: 0; }
 

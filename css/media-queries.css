@@ -358,7 +358,7 @@
 		height: 60px;	
 		margin-top: -30px;			
 	}
-	#team-wrapper .member-name { margin-left: 60px;	}
+	#team-wrapper .member-name { margin-left: 0px;	}
 	#team-wrapper .member-name h3 {
 		font-size: 15px;
 		line-height: 18px;	
@@ -428,7 +428,7 @@
 	}
 
 	/* about section */
-	#about .about-content {	padding: 0 0px; }
+	#about .about-content {	padding: 0 30px; }
 	#about .left {	padding: 0;	}
 	#about .right { padding: 0; }
 
